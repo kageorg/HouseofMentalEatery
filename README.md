@@ -1,11 +1,8 @@
-# HouseofMentalEatery
-Techmecolor Community Project - #1
+# FOOD4THOUGHT:"HouseofMentalEatery"
+Techmecolor Community Project - 001
 
-Purpose: House of Mental Eatery is local startup that is in need of a website. The members of Techmecolor have taken on this local small business with the purpose providing a nice web presence for the startup. 
+Purpose: House of Mental Eatery is a local startup that is in need of a website. The members of TechMeColor have taken on this local small business with the purpose providing an appropiate web presence for the startup. 
 
-This project is our first community project and the coding will be shared among the members of the group. Each person will work in a team so that members of this group can practice working on a team coding project. 
+We are very excited as this project is our FIRST community project and the coding will be shared among the members of the group! Each person will work in a team so that members of this group can practice working on a team coding project. 
 
-testing mic check 1 2
-
-Naveed is awesome!
-Preston is even more awesome though. 
+hello
