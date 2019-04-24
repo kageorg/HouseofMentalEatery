@@ -6,3 +6,5 @@ Purpose: House of Mental Eatery is local startup that is in need of a website. T
 This project is our first community project and the coding will be shared among the members of the group. Each person will work in a team so that members of this group can practice working on a team coding project. 
 
 testing mic check 1 2
+
+Naveed is awesome!
